@@ -7,11 +7,11 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: {
-    default: "Scribble - Your Personal Blogging Platform",
-    template: "%s | Scribble",
+    default: "Scribble - Avishka Gihan's Next.js Blog",
+    template: "%s | Avishka Gihan's Scribble",
   },
   description:
-    "Scribble is a simple, intuitive blogging platform for expressing your thoughts and ideas.",
+    "Join me, Avishka Gihan, on Scribble, where I share my thoughts, experiences, and insights on Next.js development. Explore cutting-edge web development techniques and best practices.",
 };
 
 export default function RootLayout({ children }) {
