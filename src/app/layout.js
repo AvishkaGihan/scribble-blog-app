@@ -8,10 +8,11 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
   title: {
-    default:"Next.js 14 Homepage",
-    template:"%s | Next.js 14"
+    default: "Scribble - Your Personal Blogging Platform",
+    template: "%s | Scribble",
   },
-  description: "Next.js starter app description",
+  description:
+    "Scribble is a simple, intuitive blogging platform for expressing your thoughts and ideas.",
 };
 
 export default function RootLayout({ children }) {
@@ -19,11 +20,11 @@ export default function RootLayout({ children }) {
     <html lang="en">
       <body className={inter.className}>
         {/* <ClientSideProviderTest> */}
-          <div className="container">
-            <Navbar />
-            {children}
-            <Footer />
-          </div>
+        <div className="container">
+          <Navbar />
+          {children}
+          <Footer />
+        </div>
         {/* </ClientSideProviderTest> */}
       </body>
     </html>
