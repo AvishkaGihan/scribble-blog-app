@@ -90,15 +90,15 @@ Open [http://localhost:3000](http://localhost:3000) to view the app in your brow
 
 ### Home Page
 
-![Home Page](public/home-page-screenshot.png)
+![Home Page](public/screenshots/home-page-screenshot.png)
 
-### Blog Post
+### Blog Posts
 
-![Blog Post](public/blog-post-screenshot.png)
+![Blog Post](public/screenshots/blog-post-screenshot.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](public/admin-dashboard-screenshot.png)
+![Admin Dashboard](public/screenshots/admin-dashboard-screenshot.png)
 
 ## Learn More
 
