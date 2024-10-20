@@ -1,9 +1,10 @@
 :root {
-  --bg: #0d0c22;
-  --bgSoft: #2d2b42;
-  --text: white;
-  --textSoft: #e5e5e5;
-  --btn: #3673fd;
+  --bg: #eae7dc; /* Light beige from your palette, good for main background */
+  --bgSoft: #f2d7a6; /* Soft yellow from your palette, for secondary backgrounds */
+  --text: #2c3e50; /* Dark blue-gray, for good contrast with light backgrounds */
+  --textSoft: #34495e; /* Softer dark blue-gray, for secondary text */
+  --btn: #3498db; /* Bright blue for buttons */
+  --btnText: #ffffff; /* White text for buttons, ensuring good contrast */
 }
 
 * {
@@ -15,7 +16,6 @@
 body {
   background-color: var(--bg);
   color: var(--text);
-
 }
 
 a {

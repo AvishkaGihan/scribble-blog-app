@@ -11,7 +11,7 @@
   background-color: var(--bgSoft);
   border: none;
   border-radius: 5px;
-  color: var(--textColor);
+  color: var(--text);
 }
 
 .container button {
@@ -20,6 +20,6 @@
   background-color: var(--btn);
   border: none;
   border-radius: 5px;
-  color: var(--textColor);
+  color: var(--btnText);
   font-weight: bold;
 }

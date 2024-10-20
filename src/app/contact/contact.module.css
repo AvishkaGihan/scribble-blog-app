@@ -37,7 +37,7 @@
 .form button {
   padding: 20px;
   background-color: var(--btn);
-  color: var(--text);
+  color: var(--btnText);
   font-weight: bold;
   border: none;
   border-radius: 5px;
